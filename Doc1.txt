@@ -1,0 +1,2 @@
+Let a="Irina";
+console log(a); 
